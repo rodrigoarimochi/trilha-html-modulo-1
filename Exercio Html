@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>Academia XYZ</title>
+</head>
+<body>
+    <header>
+        <h1>Academia RODRIGO ARIMOCHI</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Serviços</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Sobre nós</h2>
+            <p>A Academia RODRIGO ARIMOCHI é uma academia voltada para treinos direcionados para homens. Nossos profissionais qualificados oferecem uma variedade de serviços, incluindo treinamento personalizado, aulas de grupo e muito mais.</p>
+        </section>
+
+        <section>
+            <h2>Serviços</h2>
+            <ul>
+                <li>Treinamento personalizado</li>
+                <li>Aulas de grupo (Musculação, Levantamento de Peso, etc.)</li>
+                <li>Musculação</li>
+                <li>Avaliação física</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contato</h2>
+            <p>Entre em contato conosco para obter mais informações:</p>
+            <p><strong>Telefone:</strong> (11) 94750060</p>
+            <p><strong>Email:</strong> contato@Academiaarimochi.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Academia RODRIGO ARIMOCHI. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
